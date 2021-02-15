@@ -145,6 +145,9 @@ button:hover{
 .text-heading{
     font-size: 55px;
     color:  rgb(44, 44, 44);
+    position: absolute;
+    padding-bottom: 20px;
+    top: 5%;
 
 }
 .text-para{
